@@ -1,6 +1,7 @@
 #RotateIndividuals
 
-VM("http://vimeo.com/15198569", width = 600, height = 450, print = TRUE)
+[![Demo Video](demo.png)](https://vimeo.com/sebastianberns/indd-rotate-individuals)
+[Demo Video](https://vimeo.com/sebastianberns/indd-rotate-individuals)
 
 InDesign JSX Script Version 1.0 (2010-09-22)
 
